@@ -26,7 +26,7 @@ Komponen yang digunakan pada project ini antara lain:
 ## Circuit Diagram & Simulasi
 Berikut adalah dokumentasi penempatan komponen pada breadboard:
 
-![Dokumentasi Rangkaian Arduino](foto arduino.png)
+![Dokumentasi Rangkaian Arduino](foto_arduino.png)
 
 **Tautan Simulasi Tinkercad:**
 [Klik di sini untuk melihat dan menjalankan simulasi Tinkercad](https://www.tinkercad.com/things/kTFTHwuTVC7/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=p8q4D4AeNDiiqKc45RkcXgpywB80tPRlx60nU5eM67k)
