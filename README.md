@@ -29,7 +29,7 @@ Berikut adalah dokumentasi penempatan komponen pada breadboard:
 ![Dokumentasi Rangkaian Arduino](foto_arduino.png)
 
 **Tautan Simulasi Tinkercad:**
-[Klik di sini untuk melihat dan menjalankan simulasi Tinkercad]([https://www.tinkercad.com/things/kTFTHwuTVC7/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=p8q4D4AeNDiiqKc45RkcXgpywB80tPRlx60nU5eM67k](https://www.tinkercad.com/things/kTFTHwuTVC7-tugas-3?sharecode=C02i2zFdJkw4TnVZ3MINKouLtHkEbLrHwbC9EG3XB-w))
+[Klik di sini untuk melihat dan menjalankan simulasi Tinkercad](https://www.tinkercad.com/things/kTFTHwuTVC7/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=p8q4D4AeNDiiqKc45RkcXgpywB80tPRlx60nU5eM67k](https://www.tinkercad.com/things/kTFTHwuTVC7-tugas-3?sharecode=C02i2zFdJkw4TnVZ3MINKouLtHkEbLrHwbC9EG3XB-w)
 
 Setiap LED dihubungkan ke pin digital Arduino (Pin 2 hingga Pin 13) dan dihubungkan ke ground melalui resistor untuk membatasi arus.
 
